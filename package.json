@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Carelmi/caradisiac/issues"
   },
-  "homepage": "https://github.com/Carelmi/caradisiac#readme"
+  "homepage": "https://github.com/Carelmi/caradisiac#readme",
+  "dependencies": {
+    "elasticsearch": "^14.2.1",
+    "express": "^4.16.3"
+  }
 }
